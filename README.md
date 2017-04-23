@@ -4,12 +4,12 @@
 Thailand Original
 
 
-![thailand](https://github.com/alex-wap/tensorflow-images/blob/master/b.jpg)
+![thailand](https://github.com/alex-wap/tensorflow-images/blob/master/t.jpg)
 
 Thailand Wave
 
 
-![thailand wave](https://github.com/alex-wap/tensorflow-images/blob/master/bw.jpg)
+![thailand wave](https://github.com/alex-wap/tensorflow-images/blob/master/tw.jpg)
 
 --------
 
